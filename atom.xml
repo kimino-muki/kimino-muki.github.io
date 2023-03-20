@@ -6,7 +6,7 @@
   <link href="https://kimino-muki.github.io/atom.xml" rel="self"/>
   
   <link href="https://kimino-muki.github.io/"/>
-  <updated>2023-02-03T14:22:56.000Z</updated>
+  <updated>2023-03-20T07:32:39.669Z</updated>
   <id>https://kimino-muki.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三月：下旬的存活确认</title>
+    <link href="https://kimino-muki.github.io/2023/03/20/014March/"/>
+    <id>https://kimino-muki.github.io/2023/03/20/014March/</id>
+    <published>2023-03-20T07:00:15.000Z</published>
+    <updated>2023-03-20T07:32:39.669Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是一篇网站（预）更新报告。</p></blockquote><h1 id="Hi-o-￣▽￣-ブ-你来啦！"><a href="#Hi-o-￣▽￣-ブ-你来啦！" class="headerlink" title="Hi~ o(￣▽￣)ブ 你来啦！"></a>Hi~ o(<em>￣▽￣</em>)ブ 你来啦！</h1><p>过了好久网站都没有更新，因为最近一直在学习的说，还挺忙的。</p><p>所以这篇文章只是过来打个招呼（嘛，虽然这么说，但是也没有人在关注着这个博客吧（笑</p><p>回想上一次这种公告文发布的时候：</p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/img/illus/000188.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">二月公告：</div>  <p>银河，看板娘，下一章的旅程</p>  <a href='/2023/02/01/012%C3%A9toiles/'></a>  </figcaption>  </figure>  </div>感觉那时的我对stable diffusion都知之甚少，虽然稍微研究了一下，但那时果然还是只会“图一乐”的知识储备。<p>所以自那一篇文章以来，直到今天，我可以自信地说：这段时间我学了很多很多。</p><p>关于人工智能领域那之后确实发生了太多太多，</p><p><del>像是<strong>微软</strong>终于站了起来，<strong>谷歌</strong>你在干什么？</del><br><del>比如<strong>OpenAI</strong>越来越不open了</del><br><del>又比如<strong>硅谷银行</strong>最近破产了</del></p><p>在计算机视觉领域：<br>有训练起来更加得心应手的<strong>LoRA</strong>模型，<br>有<strong>AOM</strong>和<strong>Counterfeit</strong>这种优秀的大模型，<br>当然还有<strong>ControlNet</strong>这种具有时代颠覆意义的插件。</p><p>在自然语言处理领域：<br>许久之前就已经诞生的<strong>Github Copilot</strong>，<br>在我的博客中没有重点提到过的<strong>ChatGPT</strong>，<br>基于openai的gpt的微软的<strong>BingChat</strong>，<br>再到最新的<strong>GPT-4</strong>，<br>甚至是微软的<strong>Microsoft 365 Copilot</strong>。</p><p>在语音合成领域：<br><strong>vits</strong>的众多实例开始出现在b站的翻唱区。</p><p>列举了这么多，但未免还是遗漏了很多优秀的新技术。<br>现在，确实是AI高速发展的时代。<br>只是感觉学习的速度，赶不上技术发展的速度。</p><p>所以这段时间，<br>我放弃了“一键包”，并尝试自己部署好stable diffusion，<br>到hugging face上下载试用了很多模型，<br>放到google colab和autodl上面去跑。<br>（这篇的封面就是那上面的产物）<br>总是去跟bingchat聊天，有问题就直接去找。<br>可惜没有搞到gpt的api就是了，等到了日本，这大概是我想要做的第一件事情。</p><p>还有，<br>这篇日记也不是用vscode写的了，<br>而是用<strong>Notepad3</strong>写的（笑）返璞归真，记事本yyds。<br>另外，我删掉了Anaconda，装上了pyenv，还有venv。<br>命令行，是个很有意思的东西呢。</p><p>也许以后会详细讲讲？</p><p>但是不想写文章啦，还是发推，发telegram的频道更省事儿。<br>个人博客还会随缘更新的。</p><p>不多说了，去学习了。</p><div align="right">muki-></div><div align="right">2023年3月20日</div><hr><ul><li>注：本文的封面及插图使用了AI绘画技术。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是一篇网站（预）更新报告。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Hi-o-￣▽￣-ブ-你来啦！&quot;&gt;&lt;a href=&quot;#Hi-o-￣▽￣-ブ-你来啦！&quot; class=&quot;headerlink&quot; title=&quot;Hi~ o(￣▽￣)ブ 你</summary>
+      
+    
+    
+    
+    <category term="Announcement" scheme="https://kimino-muki.github.io/categories/Announcement/"/>
+    
+    
+    <category term="About My Website" scheme="https://kimino-muki.github.io/tags/About-My-Website/"/>
+    
+  </entry>
   
   <entry>
     <title>Re：从零开始的高自由度多剧情线RPG游戏创作？</title>
