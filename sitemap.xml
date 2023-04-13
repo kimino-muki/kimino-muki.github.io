@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kimino-muki.github.io/2023/04/13/015April/</loc>
+    
+    <lastmod>2023-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kimino-muki.github.io/2023/03/20/014March/</loc>
     
     <lastmod>2023-03-20</lastmod>
@@ -283,7 +292,7 @@
 
   <url>
     <loc>https://kimino-muki.github.io/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -291,28 +300,28 @@
   
   <url>
     <loc>https://kimino-muki.github.io/tags/About-My-Website/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kimino-muki.github.io/tags/Artistic-Creation/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kimino-muki.github.io/tags/Essay/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kimino-muki.github.io/tags/Novel/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -321,21 +330,21 @@
   
   <url>
     <loc>https://kimino-muki.github.io/categories/Announcement/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kimino-muki.github.io/categories/Notes/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://kimino-muki.github.io/categories/muki-Posts/</loc>
-    <lastmod>2023-03-20</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
