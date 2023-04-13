@@ -6,7 +6,7 @@
   <link href="https://kimino-muki.github.io/atom.xml" rel="self"/>
   
   <link href="https://kimino-muki.github.io/"/>
-  <updated>2023-04-13T08:37:10.865Z</updated>
+  <updated>2023-04-13T08:47:43.374Z</updated>
   <id>https://kimino-muki.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://kimino-muki.github.io/2023/04/13/015April/"/>
     <id>https://kimino-muki.github.io/2023/04/13/015April/</id>
     <published>2023-04-13T08:30:15.000Z</published>
-    <updated>2023-04-13T08:37:10.865Z</updated>
+    <updated>2023-04-13T08:47:43.374Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>这是一篇 随便来打个招呼 的东西。</p></blockquote><h1 id="Hi-o-￣▽￣-ブ-你来啦！"><a href="#Hi-o-￣▽￣-ブ-你来啦！" class="headerlink" title="Hi~ o(￣▽￣)ブ 你来啦！"></a>Hi~ o(<em>￣▽￣</em>)ブ 你来啦！</h1><p>话接上文，还是3月20日的时候，说要把那个openai的api接入到telegram机器人。</p><p>虽然已经过去很久了，这边一直没有记录，用这个项目就可以了：<br><a href="https://github.com/lss233/chatgpt-mirai-qq-bot">https://github.com/lss233/chatgpt-mirai-qq-bot</a></p><p>单单是搞这个就搞了好久。虽然有稍微记录一些技术日志这种东西，但是就不放在博客上面了。本来也没有打算搞成技术性博客的说。<br>如果有人也想搞一个的话，遇到技术问题可以来问我。</p><hr><p>然后说一下那之后我都干了什么：（虽然没有人会在意：</p><ol><li>我校图书馆的自动占座脚本（暂未开源，有人感兴趣联系我（也不会直接把代码公开就是了，我可以给你讲讲思路和关键的技术什么的嘛</li><li>看了新海诚的《铃芽之旅》。</li><li>尝试很多OpenAI的API部署到聊天平台的各种项目</li><li>学习租用了Azure的VPS，用来部署上面的东西</li><li>二刷了新海诚的《铃芽之旅》。</li><li>用Azure的VPS上网冲浪（意味深</li><li>因为一些事情emo了好几天（快一个星期），什么都没学。</li></ol><p>然后，大概这两天刚刚走出这个emo期。所以也来写日志了。现在只是感觉浪费了好多时间（总感觉这段时间没有做什么有意义的事情。</p><p>stable diffusion也是好久没有接触了，所以封面图还是很久之前的存货。<br>另外也感觉学习的速度跟不上技术发展的技术：</p><ol><li>有关stable diffusion，新提出的“擦除概念”：<a href="https://arxiv.org/pdf/2303.07345v1.pdf">https://arxiv.org/pdf/2303.07345v1.pdf</a>（我也超感兴趣的课题，看来被抢先了</li><li>Apple 6月6日的发布会有可能出现的头显新品（元宇宙的时代好像要到来了</li><li>马斯克公开的推特推荐算法（虽然跟我没什么关系</li><li>一堆各个公司的大语言模型的开发</li><li>Meta的Segment Anything Model（太厉害了</li><li>谷歌发布WebGPU</li><li>Microsoft PowerToys将支持ChatGPT</li><li>OpenPromptStudio，貌似是很厉害的Prompt软件</li></ol><p>总之，从新闻里随便找了几条记在上面，我觉得就足够震撼了。<br>只能说众多新技术的诞生，我却只是感觉到心累。</p><p>自己也不知道该学些什么了。<br>也知道现在不是应该废话的时候，<br>所以，去学托福了，也要搞毕业设计的说。</p><p>去干正事儿了，不能再浪费时间了。<br>拜拜。</p><div align="right">muki-></div><div align="right">2023年3月20日 20:28</div><hr><ul><li>注：本文的封面及插图使用了AI绘画技术。</li></ul>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>这是一篇 随便来打个招呼 的东西。</p></blockquote><h1 id="Hi-o-￣▽￣-ブ-你来啦！"><a href="#Hi-o-￣▽￣-ブ-你来啦！" class="headerlink" title="Hi~ o(￣▽￣)ブ 你来啦！"></a>Hi~ o(<em>￣▽￣</em>)ブ 你来啦！</h1><p>话接上文，还是3月20日的时候，说要把那个openai的api接入到telegram机器人。</p><p>虽然已经过去很久了，这边一直没有记录，用这个项目就可以了：<br><a href="https://github.com/lss233/chatgpt-mirai-qq-bot">https://github.com/lss233/chatgpt-mirai-qq-bot</a></p><p>单单是搞这个就搞了好久。虽然有稍微记录一些技术日志这种东西，但是就不放在博客上面了。本来也没有打算搞成技术性博客的说。<br>如果有人也想搞一个的话，遇到技术问题可以来问我。</p><hr><p>然后说一下那之后我都干了什么：（虽然没有人会在意：</p><ol><li>我校图书馆的自动占座脚本（暂未开源，有人感兴趣联系我（也不会直接把代码公开就是了，我可以给你讲讲思路和关键的技术什么的嘛</li><li>看了新海诚的《铃芽之旅》。</li><li>尝试很多OpenAI的API部署到聊天平台的各种项目</li><li>学习租用了Azure的VPS，用来部署上面的东西</li><li>二刷了新海诚的《铃芽之旅》。</li><li>用Azure的VPS上网冲浪（意味深</li><li>因为一些事情emo了好几天（快一个星期），什么都没学。</li></ol><p>然后，大概这两天刚刚走出这个emo期。所以也来写日志了。现在只是感觉浪费了好多时间（总感觉这段时间没有做什么有意义的事情。</p><p>stable diffusion也是好久没有接触了，所以封面图还是很久之前的存货。<br>另外也感觉学习的速度跟不上技术发展的技术：</p><ol><li>有关stable diffusion，新提出的“擦除概念”：<a href="https://arxiv.org/pdf/2303.07345v1.pdf">https://arxiv.org/pdf/2303.07345v1.pdf</a>（我也超感兴趣的课题，看来被抢先了</li><li>Apple 6月6日的发布会有可能出现的头显新品（元宇宙的时代好像要到来了</li><li>马斯克公开的推特推荐算法（虽然跟我没什么关系</li><li>一堆各个公司的大语言模型的开发</li><li>Meta的Segment Anything Model（太厉害了</li><li>谷歌发布WebGPU</li><li>Microsoft PowerToys将支持ChatGPT</li><li>OpenPromptStudio，貌似是很厉害的Prompt软件</li></ol><p>总之，从新闻里随便找了几条记在上面，我觉得就足够震撼了。<br>只能说众多新技术的诞生，我却只是感觉到心累。</p><p>自己也不知道该学些什么了。<br>也知道现在不是应该废话的时候，<br>所以，去学托福了，也要搞毕业设计的说。</p><p>去干正事儿了，不能再浪费时间了。<br>拜拜。</p><div align="right">muki-></div><div align="right">2023年4月13日 16:47</div><hr><ul><li>注：本文的封面及插图使用了AI绘画技术。</li></ul>]]></content>
     
     
       
